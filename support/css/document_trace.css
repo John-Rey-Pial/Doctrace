@@ -1,0 +1,19 @@
+.dot {
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	display: inline-block;
+	margin-bottom: -5px;
+}
+
+.dot-green {
+	background-color: #75ce66;
+}
+
+.dot-red {
+	background-color: #c03b44;
+}
+
+.dot-yellow {
+	background-color: #f0ca45;
+}
